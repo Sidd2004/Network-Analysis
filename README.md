@@ -97,14 +97,10 @@ To add more ports or update risks:
 * The script uses **offline port vulnerability data** for speed and privacy.
 * Tested on **Python 3.8+**
 
----
 
-## 📜 License
-
-This project is released under the [MIT License](LICENSE).
 
 ---
 
 ## 👨‍💻 Author
 
-Made with ❤️ by \[Your Name / GitHub Handle]
+Made with ❤️ by Siddharth Gaur
